@@ -1,0 +1,27 @@
+main{
+    text-align: center;
+    background-color: lightcoral;
+}
+
+#image{
+    height: 500px;
+    length:800px;
+}
+#title{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+    padding-top: 100px;
+}
+#img-div{
+    background-image: url(pexel.jpg);
+}
+#title2{
+    font: size 50px;
+    color:indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tribute-info{
+    font-family: sans-serif;
+    font-size: inherit;
+}
